@@ -10,19 +10,19 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Seun-Ayela/alx-backend-javascript.git"
+        "url": "git+https://github.com/Ezeiruemma/alx-backend-javascript.git"
     },
     "bugs": {
-        "url": "https://github.com/Seun-Ayela/alx-backend-javascript/issues"
+        "url": "https://github.com/Ezeiruemma/alx-backend-javascript/issues"
     },
-    "homepage": "https://github.com/Seun-Ayela/alx-backend-javascript#readme",
+    "homepage": "https://github.com/Ezeiruemma/alx-backend-javascript#readme",
     "description": "",
     "devDependencies": {
         "@babel/cli": "^7.22.6",
         "@babel/core": "^7.22.6",
         "@babel/preset-env": "^7.22.6",
         "@typescript-eslint/eslint-plugin": "^5.61.0",
-        "@typescript-eslint/parser": "^5.60.0",
+        "@typescript-eslint/parser": "^5.61.0",
         "babel-jest": "^29.6.0",
         "eslint": "^8.44.0",
         "eslint-plugin-react": "^7.32.2",
